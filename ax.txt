@@ -3,5 +3,5 @@ skipping the staging area
 other changes in another branch
 _______________
 Working in my website
-add a header
+add a new header
 the header is done
